@@ -1,0 +1,6 @@
+;aluno;nota_1;nota_2;faltas;média;situação
+0;aluno_1;10;8;3;9.0;Aprovado
+1;aluno_2;6;6;1;6.0;Reprovado
+2;aluno_3;3;5;6;4.0;Reprovado
+3;aluno_4;7;8;2;7.5;Aprovado
+4;aluno_5;4;3;7;3.5;Reprovado
